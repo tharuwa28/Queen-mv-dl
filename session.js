@@ -43,5 +43,5 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID || "ANJU-XPRO~WIskmTJR#w4vUveJXHdbSZ11GUiqoGTDXxkeNS09MTuFf6LIb4-U",
 SUDO: process.env.SUDO || ["94762862143","94758775628"],
 PORT: process.env.PORT || "8000",
-FOOTER: process.env.FOOTER || "> 𝙵𝙸𝙻𝙼 𝚆𝙾𝚁𝙻𝙳|𝚄𝙿𝙻𝙾𝙰𝙳 𝙱𝚈 𝚃𝙷𝙰𝚁𝚄𝚆𝙰.",
+FOOTER: process.env.FOOTER || "> 𝙵𝙸𝙻𝙼 𝚆𝙾𝚁𝙻𝙳 | 𝚄𝙿𝙻𝙾𝙰𝙳 𝙱𝚈 𝚃𝙷𝙰𝚁𝚄𝚆𝙰.",
 };
